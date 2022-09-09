@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - entry point
- * 
+ * main - print the string in the print function
+ * Description: using the main function
+ * this program prints "with proper grammer, but the outcome is a piece of art,"
  * return: 0
  */
 int main(void)
