@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * Main - entry point
  * this code prints "with proper grammer, but the outcome is a piece of art,"
