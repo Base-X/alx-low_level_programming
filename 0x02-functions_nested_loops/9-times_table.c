@@ -1,4 +1,4 @@
-#include <mani.h>
+#include <main.h>
 
 /**
  * times_table - Check description
